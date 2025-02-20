@@ -4,4 +4,4 @@ local UI = game.Players.LocalPlayer.PlayerGui.MainGui.PaintFrame.GridHolder.Grid
 for i,v in pairs(Pixels) do
     UI[i].BackgroundColor3 = Color3.fromRGB(v.R, v.G, v.B)
 end
--- https://archive.org/download/talking-ben-the-dog-for-ipad/Talking%20Ben%20the%20Dog%20for%20iPad.png
+-- https://static1.moviewebimages.com/wordpress/wp-content/uploads/2023/05/five-nights-at-freddys-poster-cut.png
